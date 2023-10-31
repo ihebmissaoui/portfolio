@@ -4,94 +4,53 @@ import { BiCheck } from "react-icons/bi";
 const Services = () => {
   return (
     <section id="services">
-      <h5>What I Offer</h5>
-      <h2>Services</h2>
+      <h5>My INTERNSHEEP </h5>
+      <h2>WORK EXPERIENCES</h2>
 
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>END Of Study Project</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Lorem,ipsum dolor sit amet consectetur aidekzjhfkjdsfdskjf
-                sdfdsf
+              Development of a middleware web application allowing the conversion of a course in html formats to scorm standards
+
               </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Lorem,ipsum dolor sit amet consectetur aidekzjhfkjdsfdskjf
-                sdfdsf
+              SPRINGBOOT,JQUERY,MYSQL,SCORM
               </p>
             </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Lorem,ipsum dolor sit amet consectetur aidekzjhfkjdsfdskjf
-                sdfdsf
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Lorem,ipsum dolor sit amet consectetur aidekzjhfkjdsfdskjf
-                sdfdsf
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Lorem,ipsum dolor sit amet consectetur aidekzjhfkjdsfdskjf
-                sdfdsf
-              </p>
-            </li>
+         
+          
         
           </ul>
         </article>
         {/* web Developmentt */}
         <article className="service">
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Summer  INTERNSHEEP</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Lorem,ipsum dolor sit amet consectetur aidekzjhfkjdsfdskjf
-                sdfdsf
+              Development of a mobile application for recycling raw materials in Tunisia. 
+
               </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Lorem,ipsum dolor sit amet consectetur aidekzjhfkjdsfdskjf
-                sdfdsf
+              FLUTTER ,MYSQL,NODE-JS
               </p>
             </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Lorem,ipsum dolor sit amet consectetur aidekzjhfkjdsfdskjf
-                sdfdsf
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Lorem,ipsum dolor sit amet consectetur aidekzjhfkjdsfdskjf
-                sdfdsf
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>
-                Lorem,ipsum dolor sit amet consectetur aidekzjhfkjdsfdskjf
-                sdfdsf
-              </p>
-            </li>
+           
         
           </ul>
         </article>

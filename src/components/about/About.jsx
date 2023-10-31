@@ -20,22 +20,25 @@ const about = () => {
             <article className="about__card">
               <FaAward class="about__icon" />
               <h5>Experience</h5>
-              <small>7 Months Internsheep</small>
+              <small>7 month internship</small>
             </article>
             <article className="about__card">
               <FiUsers class="about__icon" />
               <h5>Diploma</h5>
-              <small>Engeering in Data Science</small>
-             
+              <ul>
+             <li> <small>Engineering in Data Science</small></li>
+             <li> <small>Bachelor in Computer Science</small></li>
+              </ul>
             </article>
             <article className="about__card">
               <VscFolderLibrary class="about__icon" />
               <h5>Projects</h5>
-              <small>X completed projects</small>
+              <br></br>
+              <small>5 projects</small>
             </article>
           </div>
           <p>
-          I am  Iheb Missaoui 22 years old, I live in Tunis, I had my computer bacleaureat in Tunis, my degree in computer science at the Faculty of Fcience of Tunis and now I am in the 4th year of data science engineering in the same of science Faculty
+          Computer technician and fourth-year student in the data science engineering program, aged 23, seeking to develop my skills and practical experience by learning new techniques and taking on challenges.
 
           </p>
 

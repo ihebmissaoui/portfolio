@@ -52,10 +52,11 @@ header {
 }
 .me > img {
   object-fit:fill;
-  max-width: 50%;
+  max-width: 70%;
   max-height: 84%;
-  display: block;
- padding-bottom:3cm;
+  display:block;
+  
+ padding-right:16px;
   transform: scale(2);
 
 }
